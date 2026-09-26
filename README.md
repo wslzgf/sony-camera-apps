@@ -1,8 +1,12 @@
-﻿<h1 align="center">索尼 PlayMemories 老机型软件合集</h1>
+﻿<h1 align="center">索尼老相机第三方软件与中文汉化合集</h1>
 
 <p align="center">
-适用于可安装 PlayMemories 应用的索尼相机（2007–2016 年机型）的<br>
-开源软件、工具与汉化项目导航
+适用于可安装 PlayMemories 应用的索尼老机型（NEX、A6000、A6300、A6500、A7、A7 II、RX100 等）的<br>
+开源软件、相机 App、胶片模拟配方、手机连接传输工具与中文汉化项目导航
+</p>
+
+<p align="center">
+<sub>关键词：索尼相机 app · PlayMemories · 老机型 · 第三方软件 · 胶片配方 · 中文汉化 · A6500 · A6300 · A6000 · NEX · RX100</sub>
 </p>
 
 ---
